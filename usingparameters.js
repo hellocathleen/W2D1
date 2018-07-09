@@ -23,4 +23,4 @@ var requestOptions = {
     path: '/http-examples/step1.html'
 };
 
-getAndPrintHTML('sytantris.github.io', '/http-examples/step1.html');
+getAndPrintHTML();
